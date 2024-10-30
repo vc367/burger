@@ -1,0 +1,51 @@
+form{
+    border: solid 1px;
+    width: 450px;
+    padding-left: 10px;
+}
+body{
+    background-image: url(buger\ 12.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 550px;
+}
+label{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom: solid;
+    border-bottom-color: goldenrod;
+    border-bottom-width: 5px;
+    color: white;
+    font-size: 20px;
+}
+textarea{
+    width: 300px;
+    height: 90px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: wheat;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#avatar{
+    border-radius: 50%;
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
